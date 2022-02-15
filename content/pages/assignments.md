@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: dac6afba-3826-bc28-732c-19203d3d017d
 ---
@@ -61,7 +64,7 @@ Lisa Song ([PDF]({{< baseurl >}}/resources/song_w3))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 5
 {{< tdclose >}}
 {{< tdopen >}}
@@ -94,7 +97,7 @@ Jessica Stanley ([PDF]({{< baseurl >}}/resources/stanley_w5))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 7
 {{< tdclose >}}
 {{< tdopen >}}
@@ -124,7 +127,7 @@ Lisa Song ([PDF]({{< baseurl >}}/resources/song_w7))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 11
 {{< tdclose >}}
 {{< tdopen >}}

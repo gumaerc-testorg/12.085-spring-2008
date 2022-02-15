@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Final Papers
 uid: fa5584ba-cc76-29fb-ae31-d8729a1e1fa7
 ---

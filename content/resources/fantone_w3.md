@@ -2,8 +2,13 @@
 content_type: resource
 description: Example of a student's weekly summary on solar scattering, written by
   Dennis Fantone.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-085-seminar-in-environmental-science-spring-2008/e7d0f0ae13d49b0cb167d1b5d8147357_fantone_w3.pdf
+file: /media/courses/12-085-seminar-in-environmental-science-spring-2008/e7d0f0ae13d49b0cb167d1b5d8147357_fantone_w3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Solar Scattering
 uid: e7d0f0ae-13d4-9b0c-b167-d1b5d8147357
