@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Final Papers
 parent_type: CourseSection
+parent_uid: fa5584ba-cc76-29fb-ae31-d8729a1e1fa7
 resourcetype: Document
 title: Geoengineering Implementation and Policy
 uid: eef124f9-06aa-f330-0566-91eeb089ac49

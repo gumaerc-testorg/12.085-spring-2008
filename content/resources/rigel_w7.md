@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: dac6afba-3826-bc28-732c-19203d3d017d
 resourcetype: Document
 title: Wind Power Costs and Installation
 uid: 5b8da7e6-e0c8-db6c-a308-bcc1f25feb88

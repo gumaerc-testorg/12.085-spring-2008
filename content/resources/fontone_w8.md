@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: dac6afba-3826-bc28-732c-19203d3d017d
 resourcetype: Document
 title: Solar Radiation Reduction and International Space Law
 uid: 46dc0290-bb2b-942f-cc97-b629518335c5

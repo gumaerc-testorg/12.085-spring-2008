@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: dac6afba-3826-bc28-732c-19203d3d017d
 resourcetype: Document
 title: "Week 5 Report \u2013 Wind Turbine placements"
 uid: 529aa118-df11-d718-8495-18888e52447b

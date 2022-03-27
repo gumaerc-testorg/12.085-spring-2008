@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: dac6afba-3826-bc28-732c-19203d3d017d
 resourcetype: Document
 title: 'Week 3: Teller et al, 1997'
 uid: d42878a4-8b07-9d3f-7b26-c6beb05fc6ca

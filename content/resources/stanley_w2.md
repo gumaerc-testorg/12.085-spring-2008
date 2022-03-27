@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: dac6afba-3826-bc28-732c-19203d3d017d
 resourcetype: Document
 title: 'Week 2: Keith 2000'
 uid: da28f7bb-a35c-097f-1f68-a60d3c917cc7

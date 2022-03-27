@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: dac6afba-3826-bc28-732c-19203d3d017d
 resourcetype: Document
 title: Law, Policy, and Logistics of Iron Fertilization
 uid: 72402f19-8121-3456-c40e-7d10d0b907bd

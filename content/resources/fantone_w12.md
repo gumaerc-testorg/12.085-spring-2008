@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: dac6afba-3826-bc28-732c-19203d3d017d
 resourcetype: Document
 title: International Environmental Institutions and Geoengineering
 uid: 9b76004d-b16a-c554-2896-480d4b4c629b

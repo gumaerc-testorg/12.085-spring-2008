@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Final Papers
 parent_type: CourseSection
+parent_uid: fa5584ba-cc76-29fb-ae31-d8729a1e1fa7
 resourcetype: Document
 title: Sequestering Carbon Dioxide in Carbonates
 uid: 85f91589-65a4-a2b5-9d1a-df51d01c7469
