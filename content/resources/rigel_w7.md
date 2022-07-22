@@ -6,6 +6,7 @@ file: /courses/12-085-seminar-in-environmental-science-spring-2008/5b8da7e6e0c8d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Wind Power Costs and Installation
 uid: 5b8da7e6-e0c8-db6c-a308-bcc1f25feb88
 ---
 Example of a student's weekly summary on wind power costs and installation, written by Adam Rigel.
-

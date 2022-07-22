@@ -6,6 +6,7 @@ file: /courses/12-085-seminar-in-environmental-science-spring-2008/67a4e61798184
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Teller (1997)
 uid: 67a4e617-9818-43ff-93a1-2b60e59011c2
 ---
 Example of a student's weekly summary on global warming and ice ages, written by Adam Rigel.
-

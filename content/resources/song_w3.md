@@ -6,6 +6,7 @@ file: /courses/12-085-seminar-in-environmental-science-spring-2008/1843c5c16853b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Assignment 2
 uid: 1843c5c1-6853-b8a8-8dae-f3a4bc4aabc9
 ---
 Example of a student's weekly summary on geoengineering the climate, written by Lisa Song.
-
