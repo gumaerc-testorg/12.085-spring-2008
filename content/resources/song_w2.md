@@ -3,6 +3,7 @@ content_type: resource
 description: Example of a student's weekly summary on geoengineering the climate,
   written by Lisa Song.
 file: /courses/12-085-seminar-in-environmental-science-spring-2008/d58afd953bb69986a82e45031b6b07a4_song_w2.pdf
+file_size: 75043
 file_type: application/pdf
 learning_resource_types:
 - Assignments
