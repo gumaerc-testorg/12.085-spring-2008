@@ -3,6 +3,7 @@ content_type: resource
 description: Example of a student's final paper on the feasibility of the U.S. converting
   all electricity production to wind power, written by Adam Rigel.
 file: /courses/12-085-seminar-in-environmental-science-spring-2008/039db6d284df23360bafe0eb4691de69_rigel.pdf
+file_size: 121129
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
