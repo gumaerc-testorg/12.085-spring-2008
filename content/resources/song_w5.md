@@ -2,7 +2,7 @@
 content_type: resource
 description: Example of a student's weekly summary on geoengineering, written by Lisa
   Song.
-file: /courses/12-085-seminar-in-environmental-science-spring-2008/81892335d8048b0062a13c6f30e8c55f_song_w5.pdf
+file: /ol-ocw-studio-app/courses/12-085-seminar-in-environmental-science-spring-2008/81892335d8048b0062a13c6f30e8c55f_song_w5.pdf
 file_size: 120971
 file_type: application/pdf
 learning_resource_types:

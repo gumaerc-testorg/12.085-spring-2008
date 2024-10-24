@@ -2,7 +2,7 @@
 content_type: resource
 description: Example of a student's weekly summary on how serpentine could be used
   to form magnetiste for long-term carbon dioxide removal, written by Lisa Song.
-file: /courses/12-085-seminar-in-environmental-science-spring-2008/6c69f2a0a8644e8b35e84885f86e496f_song_w7.pdf
+file: /ol-ocw-studio-app/courses/12-085-seminar-in-environmental-science-spring-2008/6c69f2a0a8644e8b35e84885f86e496f_song_w7.pdf
 file_size: 105132
 file_type: application/pdf
 learning_resource_types:
