@@ -2,7 +2,7 @@
 content_type: resource
 description: Example of a student's final paper on sequestering carbon dioxide in
   carbonates, written by Lisa Song.
-file: /ol-ocw-studio-app/courses/12-085-seminar-in-environmental-science-spring-2008/85f9158965a4a2b59d1adf51d01c7469_song.pdf
+file: /courses/12-085-seminar-in-environmental-science-spring-2008/85f9158965a4a2b59d1adf51d01c7469_song.pdf
 file_size: 251359
 file_type: application/pdf
 learning_resource_types: []
