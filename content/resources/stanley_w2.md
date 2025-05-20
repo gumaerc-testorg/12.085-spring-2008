@@ -2,7 +2,7 @@
 content_type: resource
 description: Example of a student's weekly summary on geoengineering the climate,
   written by Jessica Stanley.
-file: /ol-ocw-studio-app/courses/12-085-seminar-in-environmental-science-spring-2008/da28f7bba35c097f1f68a60d3c917cc7_stanley_w2.pdf
+file: /courses/12-085-seminar-in-environmental-science-spring-2008/da28f7bba35c097f1f68a60d3c917cc7_stanley_w2.pdf
 file_size: 73305
 file_type: application/pdf
 learning_resource_types:

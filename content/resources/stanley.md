@@ -2,7 +2,7 @@
 content_type: resource
 description: Example of a student's final paper on terrestrial carbon sequestration,
   written by Jessica Stanley.
-file: /ol-ocw-studio-app/courses/12-085-seminar-in-environmental-science-spring-2008/19dee7b19e6c6e57a7a276c6e91a6964_stanley.pdf
+file: /courses/12-085-seminar-in-environmental-science-spring-2008/19dee7b19e6c6e57a7a276c6e91a6964_stanley.pdf
 file_size: 1360242
 file_type: application/pdf
 learning_resource_types: []
