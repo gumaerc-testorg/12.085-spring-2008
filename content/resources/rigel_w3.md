@@ -2,7 +2,7 @@
 content_type: resource
 description: Example of a student's weekly summary on global warming and ice ages,
   written by Adam Rigel.
-file: /ol-ocw-studio-app/courses/12-085-seminar-in-environmental-science-spring-2008/67a4e617981843ff93a12b60e59011c2_rigel_w3.pdf
+file: /courses/12-085-seminar-in-environmental-science-spring-2008/67a4e617981843ff93a12b60e59011c2_rigel_w3.pdf
 file_size: 73933
 file_type: application/pdf
 learning_resource_types:
