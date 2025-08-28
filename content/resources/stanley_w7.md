@@ -2,7 +2,7 @@
 content_type: resource
 description: Example of a student's weekly summary on soil carbon sequestration and
   the greenhouse effect, written by Jessica Stanley.
-file: /courses/12-085-seminar-in-environmental-science-spring-2008/23176483569e2654a9816343086bff5e_stanley_w7.pdf
+file: /ol-ocw-studio-app/courses/12-085-seminar-in-environmental-science-spring-2008/23176483569e2654a9816343086bff5e_stanley_w7.pdf
 file_size: 78116
 file_type: application/pdf
 learning_resource_types:
